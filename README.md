@@ -1,3 +1,12 @@
+---
+license: mit
+tags:
+  - openclaw
+  - obsidian
+  - plugin
+  - bridge
+---
+
 # OpenClaw Obsidian Bridge
 
 Minimal OpenClaw plugin extension that exposes Obsidian status/open helpers through gateway methods and an authenticated HTTP route.
