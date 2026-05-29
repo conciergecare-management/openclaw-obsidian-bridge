@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-bridge",
+  "name": "Obsidian Bridge",
+  "description": "Minimal OpenClaw-owned Obsidian bridge for Paperclip and local callers.",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "obsidian-bridge",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Minimal OpenClaw-owned Obsidian bridge for Paperclip and local callers.",
+  "private": false,
+  "scripts": {
+    "test": "node --check index.mjs"
+  },
+  "openclaw": {
+    "extensions": [
+      "./index.mjs"
+    ]
+  }
+}
